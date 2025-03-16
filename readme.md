@@ -1,3 +1,5 @@
+**no longer works with the deprecated api on docker hub**
+
 # taglist
 
 A go script which returns the latest tag which includes x.y.z version format from the specified docker hub repository.
